@@ -35,3 +35,8 @@ what type of log in was being logged in, if it is the “ADMIN” or “EMPLOYEE
 determining whose account is being used, the program will go to the designated
 platform. If it is the admin user, then the user can check all the employee details, while
 the employee users can only use time in and clock out system.
+
+![image](https://user-images.githubusercontent.com/75480369/146205057-17ba8365-6eee-43d3-a755-5d841f08dbbb.png)
+
+
+![image](https://user-images.githubusercontent.com/75480369/146205163-4529b4c1-87ad-4999-adb0-3ec4abafecc7.png)
